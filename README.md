@@ -15,7 +15,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💫 About Me:
--I'm Currently Working on Generalized Data Structure  Library  using C++<br>-I'm looking to collaborate on Java, Web Development and Open Source Projects<br>-I'm currently learning Java Full Stack Development and Cloud Computing Python AIIML , GEN-AI, Deep Learning ,Data Science<br>Ask me about<br>-Java, C, C++, HTML, JavaScript, SpringBoot,MongoDb, Git and GitHub ,MySQL, Oracle (PL/SQL), Microsoft SQL Server.<br><br>Fun Fact<br>-I enjoy building projects and learning technologies.
+-I'm Currently Working on Generalized Data Structure  Library  using C++<br>-I'm looking to collaborate on Java, Web Development and Open Source Projects<br>-I'm currently learning Java Full Stack Development and Cloud Computing Python AIIML , GEN-AI, Deep Learning ,Data Science<br><br>-Java, C, C++, HTML, JavaScript, SpringBoot,MongoDb, Git and GitHub ,MySQL, Oracle (PL/SQL), Microsoft SQL Server.<br><br>Fun Fact<br>-I enjoy building projects and learning technologies.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Prajakta Jagtap&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
